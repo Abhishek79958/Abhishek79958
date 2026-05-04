@@ -17,7 +17,7 @@
 
 ```python
 class Abhishek:
-    name        = "Abhishek Sharma"
+    name        = "Abhishek"
     degree      = "B.Tech Information Technology — 3rd Year"
     location    = "India 🇮🇳"
     interests   = ["Azure AI", "Cloud Computing", "Full-Stack Dev", "Machine Learning"]
